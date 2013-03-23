@@ -1,0 +1,17 @@
+{
+  "name": "openshift",
+  "author": "ryan jarvinen <ryanj@redhat.com>",
+  "description": "Openshift application updater",
+  "keywords": ["OpenShift", "PaaS", "RedHat", "Red Hat", "cloud", "application hosting"],
+  "version": "0.0.1",
+  "homepage": "http://openshift.github.com/",
+  "repository": { "type": "git", 
+                  "url": "https://github.com/ryanj/openshift.npm.git" },
+  "main": "lib/openshift.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": ">=0.2.3"
+  }
+}
